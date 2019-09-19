@@ -1,2 +1,2 @@
-# Curse-DataSciences-Python
+# Curso-DataSciences-Python
 Curso de DataSciences de udemy
